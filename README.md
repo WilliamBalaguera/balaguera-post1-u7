@@ -11,21 +11,6 @@ Aplicación web CRUD para gestión de productos desarrollada con Spring Boot, Th
 - Thymeleaf
 - Maven
 
-## Estructura del Proyecto
-
-src/main/java/com/universidad/
-├── productos_web/
-│   └── ProductosWebApplication.java
-└── productosweb/
-├── controller/ProductoController.java
-├── model/Producto.java
-└── service/ProductoService.java
-src/main/resources/
-├── templates/productos/
-│   ├── lista.html
-│   └── formulario.html
-└── application.properties
-
 ## Cómo ejecutar
 
 1. Clonar el repositorio:
@@ -49,4 +34,4 @@ src/main/resources/
 - Patrón PRG para evitar reenvío de formularios
 
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/f66467ae-da31-4e5a-a612-d6d82e43d389" />
-![img_1.png](img_1.png)
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/4c6dbf7e-deae-463d-b3bb-ffce24387b00" />
